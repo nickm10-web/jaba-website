@@ -1,6 +1,5 @@
 import { useRef } from 'react'
 import { motion, useInView } from 'framer-motion'
-import CountUp from 'react-countup'
 import { HiX, HiCheck } from 'react-icons/hi'
 import './ProofPoints.css'
 
